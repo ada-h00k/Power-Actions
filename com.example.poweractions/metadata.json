@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Power Actions"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Dropdown für Herunterfahren, Neustart und Abmelden",
+        "Icon": "system-shutdown",
+        "Id": "com.example.poweractions",
+        "License": "AGPL-3.0-or-later",
+        "Name": "Power Actions",
+        "Version": "1.0",
+        "Website": ""
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
