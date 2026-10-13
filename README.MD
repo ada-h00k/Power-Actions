@@ -1,6 +1,6 @@
 # Power Actions
 
-<img src="screenshots/power-actions-mockup.svg" alt="Power Actions Popup" width="500">
+<img src="docs/screenshots/power-actions-mockup.png" alt="Power Actions Popup" width="500">
 
 A simple, lightweight **KDE Plasma 6 applet** that provides quick access to common power actions directly from the Plasma panel.
 
